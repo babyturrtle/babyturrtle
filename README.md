@@ -1,14 +1,10 @@
 # Hanna Pantsialei
 
-Python Developer
-
-+ 375 (29) 620-40-18
-
-ann.pntl@gmail.com
-
-Minsk, Belarus
-
-[https://github.com/babyturrtle](https://github.com/babyturrtle)
+###### Python Developer
+Phone number: +375 (29) 620-40-18
+Gmail:        ann.pntl@gmail.com
+Location:     Minsk, Belarus
+GitHub:       [GitHub](https://github.com/babyturrtle)
 
 ---
 
@@ -23,7 +19,7 @@ Passionate IT student from Belarusian State University of Informatics and Radioe
 
 **Scientific and Methodological Institution "The National Institute of Education" of the Ministry of Education of the Republic of Belarus**
 Apprentice Back-end Developer
-_2021, June - July_
+  _2021, June - July_
 
 - Created a relational database for company's experimental projects
 - Developed back-end for a client/server application for transferring information on company's experimental projects from XML spreadsheets into a relational database
@@ -34,15 +30,22 @@ _2021, June - July_
 ### Education
 
 **Belarusian State University of Informatics and Radioelectronics**
-_2018 - 2022_
+  _2018 - 2022_
 
 Faculty: Faculty of Information Technologies and Control
 Degree: Artificial Intelligence
 
 ---
 
-### Technical Skills
+### **Language Skills**
+- **English:** C1
+- **Norwegian:** A2
+- **Belarusian:** Native
+- **Russian:** Native
 
+---
+
+### Technical Skills
 - Web Development
 - Object-oriented Programming
 - Microsoft Office Skills
@@ -58,24 +61,17 @@ Degree: Artificial Intelligence
 ---
 
 ### General Skills
-
 - Problem Solving
 - Analytical Thinking
 - Teamwork
 - Interpersonal Skills
 - Organization skills
 
-### Hobbies and Interests
+---
 
+### Hobbies and Interests
 - Running
 - Journaling
 - Reading
 - Board Games
 - Music
-
-### **Language Skills**
-
-- **English:** C1
-- **Norwegian:** A2
-- **Belarusian:** Native
-- **Russian:** Native
