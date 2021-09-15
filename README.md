@@ -1,10 +1,10 @@
 # Hanna Pantsialei
 
 ###### Python Developer
-Phone number: +375 (29) 620-40-18  
-Gmail:        ann.pntl@gmail.com  
-Location:     Minsk, Belarus  
-GitHub:       [GitHub](https://github.com/babyturrtle)  
++375 (29) 620-40-18  
+ann.pntl@gmail.com  
+Minsk, Belarus  
+[GitHub](https://github.com/babyturrtle)  
 
 ---
 
@@ -32,7 +32,7 @@ _2021, June - July_
 **Belarusian State University of Informatics and Radioelectronics**  
 _2018 - 2022_
 
-Faculty: Faculty of Information Technologies and Control
+Faculty: Faculty of Information Technologies and Control  
 Degree: Artificial Intelligence
 
 ---
