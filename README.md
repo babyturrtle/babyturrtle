@@ -10,7 +10,7 @@ Minsk, Belarus
 
 ### Profile
 
-Passionate IT student from Belarusian State University of Informatics and Radioelectronics with some experience in back-end development and database design. Seeking to use proven skills in Python and C++.
+Passionate and creative IT student from Belarusian State University of Informatics and Radioelectronics with excellent English language and experience in back-end development and database design. Looking for interesting work with a decent salary and career perspectives. Eager to use proven skills in Python in development.
 
 ---
 
@@ -52,10 +52,10 @@ Degree: Artificial Intelligence
 - Artificial Intelligence
 - Object-relational mapping
 - Database Design
-- **Programming languages:** Python, C++, SQL, JavaScript
+- **Programming languages:** Python, JavaScript
 - **Frameworks:** Flask, Django, nltk, numpy, sqlalchemy
-- **Tools:** CI/CD, Agile, Git, HTML, Jinja2, MySQL, Microsoft SQL Server, Postgresql
-- **Operating systems:** Windows 10, Linux Ubuntu
+- **Tools:** Git, HTML, Jinja2, MySQL, Postgresql, Microsoft SQL Server
+- **Operating systems:** Linux Ubuntu, Debian based Linux
 
 ---
 
