@@ -18,6 +18,7 @@ Passionate and creative IT student from Belarusian State University of Informati
 
 
 **Scientific and Methodological Institution "The National Institute of Education" of the Ministry of Education of the Republic of Belarus**
+
 Apprentice Back-end Developer  
 _2021, June - July_
 
